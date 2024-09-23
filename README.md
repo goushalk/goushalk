@@ -21,3 +21,5 @@ I’m currently working SIH project<br>I’m currently learning back-end for web
 [![](https://visitcount.itsvg.in/api?id=goushalk&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##WebSite
+[![Netlify Status](https://api.netlify.com/api/v1/badges/82d009b8-5d3c-4f1b-987d-a69414096c6b/deploy-status)](https://app.netlify.com/sites/goushalk/deploys)
