@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m currently working SIH project<br>I’m currently learning back-end for web development <br>A cybersecurity enthusiast interested in web security<br>Front-end developer <br>
+A cybersecurity enthusiast interested in web security
+A CTF Player
 
 
 ## 🌐 Socials:
