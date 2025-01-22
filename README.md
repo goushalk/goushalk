@@ -23,4 +23,4 @@ A CTF Player
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ##WebSite
-[![Netlify Status](https://api.netlify.com/api/v1/badges/82d009b8-5d3c-4f1b-987d-a69414096c6b/deploy-status)](https://app.netlify.com/sites/goushalk/deploys)
+[!(https://api.netlify.com/api/v1/badges/82d009b8-5d3c-4f1b-987d-a69414096c6b/deploy-status)](https://app.netlify.com/sites/goushalk/deploys)
