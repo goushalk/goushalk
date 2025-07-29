@@ -23,7 +23,6 @@ A CTF Player
 
 
 GitHub streek 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=goushalk&theme=tokyonight)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
