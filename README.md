@@ -1,6 +1,7 @@
 # 💫 About Me:
 A cybersecurity enthusiast interested in web security
 A CTF Player
+![](https://komarev.com/ghpvc/?username=goushalk)
 
 
 ## 🌐 Socials:
