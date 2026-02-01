@@ -1,6 +1,20 @@
 # 💫 About Me:
 A cybersecurity enthusiast interested in web security
 A CTF Player
+# THM
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>TryHackMe badge</title>
+  </head>
+  <body>
+    <h1>My TryHackMe public badge</h1>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4909341" style="border:none;width:100%;height:200px;"></iframe>
+    <p><a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4909341">Open badge in a new page</a></p>
+  </body>
+</html>
 
 # Views
 ![](https://komarev.com/ghpvc/?username=goushalk)
