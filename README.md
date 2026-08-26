@@ -1,7 +1,7 @@
 # 💫 About Me:
-A cybersecurity enthusiast interested in web security
-A CTF Player
-Tool Developer
+A cybersecurity enthusiast interested in web security |
+A CTF Player |
+Tool Developer |
 
 # Views
 ![](https://komarev.com/ghpvc/?username=goushalk)
