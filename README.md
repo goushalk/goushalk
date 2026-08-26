@@ -1,9 +1,7 @@
 # 💫 About Me:
 A cybersecurity enthusiast interested in web security
 A CTF Player
-# THM
-
-![TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/kgoushal.png)
+Tool Developer
 
 # Views
 ![](https://komarev.com/ghpvc/?username=goushalk)
